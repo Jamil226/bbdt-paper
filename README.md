@@ -1,7 +1,7 @@
 # The Behavior-Bound Digital Twin: Predictive 6G-V2X Authentication via RESTful IMU-PUFs
 
-![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-8.1-777BB4?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-8.4-777BB4?style=for-the-badge&logo=php)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ## 📄 Abstract & Research Overview
