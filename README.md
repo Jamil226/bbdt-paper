@@ -1,4 +1,4 @@
-# The Behavior-Bound Digital Twin: Predictive 6G-V2X Authentication via RESTful IMU-PUFs
+# The Behavior-Bound Digital Twin: A Novel RESTful IMU-PUFs Based Secure 6G-V2X Authentication and Communication Framework
 
 ![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-8.4-777BB4?style=for-the-badge&logo=php)
