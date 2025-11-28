@@ -4,7 +4,7 @@
 ![PHP](https://img.shields.io/badge/PHP-8.4-777BB4?style=for-the-badge&logo=php)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-## 📄 Abstract & Research Overview
+## Abstract & Research Overview
 
 [cite_start]This repository contains the **RESTful Microservices Implementation** of the **Behavior-Bound Digital Twin (BBDT)** protocol, as presented in our research for **IEEE Access**[cite: 3728].
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🏗️ System Architecture & Methodology
+## System Architecture & Methodology
 
 [cite_start]The project implements a three-tier architecture [cite: 3842] orchestrated via Laravel Middleware and Controllers:
 
@@ -143,7 +143,7 @@ A Postman Collection is included in the `/docs` folder of this repository. Impor
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you use this code or framework in your research, please cite our work:
 
