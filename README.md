@@ -133,7 +133,7 @@ This implementation exposes the following RESTful endpoints corresponding to the
 
 ---
 
-## 🧪 Testing with Postman
+## Testing with Postman
 
 A Postman Collection is included in the `/docs` folder of this repository. Import it into Postman to simulate the **Vehicle OBU**.
 
