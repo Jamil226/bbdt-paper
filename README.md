@@ -6,7 +6,7 @@
 
 ## Abstract & Research Overview
 
-This repository contains the **RESTful Microservices Implementation** of the **Behavior-Bound Digital Twin (BBDT)** protocol, as presented in our research for **IEEE Access**.
+This repository contains the **RESTful Microservices Implementation** of the **Behavior-Bound Digital Twin (BBDT)** protocol.
 
 The transition to Sixth-Generation (6G) Vehicle-to-Everything (V2X) networks demands security architectures that go beyond static cryptographic credentials, which are vulnerable to physical tampering and replay attacks. This research introduces a **Digital Twin Security Broker (DTSB)** hosted at the network edge. Unlike traditional PKI, the DTSB establishes a "behavior-bound identity" by enforcing a closed-loop verification mechanism:
 
