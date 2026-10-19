@@ -148,22 +148,7 @@ A Postman Collection is included in the `/docs` folder of this repository. Impor
 
 If you use this code or framework in your research, please cite our work:
 
-```
-@article{Jamil202X,
-
-  title={The Behavior-Bound Digital Twin: Predictive 6G-V2X Authentication via RESTful IMU-PUFs},
-
-  author={Muhammad Jamil},
-
-  journal={IEEE Transactions on Consumer Electronics},
-
-  year={2026},
-
-  doi={xxxxxxxxxxxxxxxxxxxxx}
-
-}
-
-```
+Coming soon
 
 ## Contributing
 
